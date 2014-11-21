@@ -3,6 +3,6 @@ module.exports = {
   },
 
   afterInstall: function() {
-    return this.addBowerPackageToProject('ember-list-view', '0.0.5');
+    return this.addBowerPackageToProject('ember-cli-list-view', '0.0.1');
   }
 };

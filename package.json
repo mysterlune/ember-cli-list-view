@@ -18,5 +18,8 @@
     "type": "git",
     "url": "git://github.com/mysterlune/ember-cli-list-view"
   },
-  "homepage": "https://github.com/mysterlune/ember-cli-list-view"
+  "homepage": "https://github.com/mysterlune/ember-cli-list-view",
+  "bugs": {
+    "url": "https://github.com/mysterlune/ember-cli-list-view/issues"
+  }
 }
