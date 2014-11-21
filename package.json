@@ -1,0 +1,22 @@
+{
+  "name": "ember-cli-list-view",
+  "author": "River Lune",
+  "license": "MIT",
+  "version": "0.0.1",
+  "description": "Include the Ember.ListView base library into an Ember CLI application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "ember-addon": {
+    "main": "index"
+  },
+  "keywords": [
+    "ember-addon"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mysterlune/ember-cli-list-view"
+  },
+  "homepage": "https://github.com/mysterlune/ember-cli-list-view"
+}
