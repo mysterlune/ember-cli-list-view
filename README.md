@@ -15,6 +15,12 @@ ember generate ember-cli-list-view
 
 in your Ember CLI project's root.
 
+##Contribute
+
+The `ember-list-view-component` (repo)[https://github.com/mysterlune/ember-list-view-component] is the actual location of the `list-view[.min].js` files are maintained for this repo, which is simply the Bower/npm wrapper.
+
+New versions of `Ember.ListView` are inevitable. If you need a new verion of `Ember.ListView`, please fork the `ember-list-view-component` repo (here)[https://github.com/mysterlune/ember-list-view-component] and submit a pull request.
+
 ##Legal
 
 Licensed under the [MIT License](http://www.opensource.org/licenses/mit-license.php)
