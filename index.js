@@ -6,7 +6,7 @@ module.exports = {
   included: function(app) {
     this._super.included(app);
 
-    this.app.import(app.bowerDirectory + '/list-view/dist/list-view.js', {
+    this.app.import(app.bowerDirectory + '/ember-cli-list-view/list-view.js', {
       exports: {
         'list-view/main':                 ['default'],
         'list-view/helper':               ['default'],
