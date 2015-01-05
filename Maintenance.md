@@ -158,7 +158,7 @@ __Note__: Currently I'm having trouble with `npm` at version v0.11.14. Using a p
 
 ````
 cd [target package]
-npm version patch
+npm version patch -m 'Bumping version to s%'
 npm tag [target package]@[new given version] latest
 git push --tags
 npm publish
