@@ -159,10 +159,12 @@ __Note__: Currently I'm having trouble with `npm` at version v0.11.14. Using a p
 ````
 cd [target package]
 npm version patch -m 'Bumping version to s%'
-npm tag [target package]@[new given version] latest
 git push --tags
 npm publish
+npm tag [target package]@[new given version] latest
 ````
+The order matters here.
+
 Remember, this repo hosts your shim, not your component. In order to update your component, you'll need to bump the bower version also.
 
 ### Bump a Bower package version
