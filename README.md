@@ -1,3 +1,9 @@
+# DEPRECATED
+
+[Ember.ListView](https://github.com/emberjs/list-view) is now an addon as of [#203](https://github.com/emberjs/list-view/pull/203). Great job, @taras, for contributing the change.
+
+__Please discontinue using this repo__. This was only intended to be useful until the main project became addon-ified. Thanks for using, forking, starring, etc.
+
 # Ember List View for Ember CLI #
 
 This is an npm package that contains the [Ember.ListView](https://github.com/emberjs/list-view) base library packaged as an [Ember CLI](https://github.com/stefanpenner/ember-cli) Addon.
