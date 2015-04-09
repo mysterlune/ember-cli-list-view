@@ -1,6 +1,6 @@
 # DEPRECATED
 
-[Ember.ListView](https://github.com/emberjs/list-view) is now an addon as of [#203](https://github.com/emberjs/list-view/pull/203). Great job, @taras, for contributing the change.
+[Ember.ListView](https://github.com/emberjs/list-view) is now an addon as of [#203](https://github.com/emberjs/list-view/pull/203). Great job, [@taras](https://github.com/taras), for contributing the change.
 
 __Please discontinue using this repo__. This was only intended to be useful until the main project became addon-ified. Thanks for using, forking, starring, etc.
 
